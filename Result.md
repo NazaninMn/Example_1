@@ -48,3 +48,15 @@ Please click on the [link][1]
 
 $x$ is a variable
 $$x_{n+1}=x_{n}^2$$
+
+
+```python
+x=1
+y=2
+z=x+y
+```
+
+Inline codes `x`
+
+> it is a blockquote
+>it is paret of the same quote
