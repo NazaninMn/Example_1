@@ -45,3 +45,6 @@ Please click on the [link][1]
 ![Picture][2]
 
 [2]:/Figures/untitled.png
+
+$x$ is a variable
+$$x_{n+1}=x_{n}^2$$
