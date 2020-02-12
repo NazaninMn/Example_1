@@ -44,7 +44,7 @@ Please click on the [link][1]
 
 ![Picture][2]
 
-[2]:/Figures/untitled.png
+[2]: https://github.com/NazaninMn/Example_1/blob/master/Figures/untitled.png
 
 $x$ is a variable
 $$x_{n+1}=x_{n}^2$$
