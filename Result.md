@@ -30,7 +30,7 @@ _Italic_
 <ol><li>C1</li>
 <li>C2</li></ol>
 
-
+# Table
 Rows| Size(Fit-Squared)|Price
 -------|:-------------------------:|------
 1       |                       545|800
@@ -49,7 +49,7 @@ Please click on the [link][1]
 $x$ is a variable
 $$x_{n+1}=x_{n}^2$$
 
-
+# Python
 ```python
 x=1
 y=2
